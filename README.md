@@ -1,3 +1,7 @@
+> **Personal Note / Course Work:** 
+> This repository contains my completed coursework, solutions, and code explorations for the *MSE5540/6640 Materials Informatics* course curriculum developed by Prof. Taylor Sparks at the University of Utah.
+
+
 # MaterialsInformatics
 MSE5540/6640 Materials Informatics course at the University of Utah
 
